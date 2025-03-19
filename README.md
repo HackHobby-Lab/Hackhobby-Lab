@@ -104,3 +104,9 @@ Random stuff, mainly electronics, firmware, embedded, robotics, softwares<br>
 [![DFRobot](https://img.shields.io/badge/-?style=for-the-badge&logo=dfrobot&logoColor=FF6600)](https://www.dfrobot.com/your-profile)
 [![Instagram](https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/your-handle)
 [![YouTube](https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/c/your-channel)
+
+
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=social&logo=github&logoColor=black)](https://github.com/your-username)
+[![Instructables](https://img.shields.io/badge/-Instructables-333?style=social&logo=instructables&logoColor=yellow)](https://www.instructables.com/member/your-profile/)
+[![Hackster](https://img.shields.io/badge/Hackster.io-004A7F?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/your-profile)
