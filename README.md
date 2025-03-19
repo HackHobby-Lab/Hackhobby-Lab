@@ -95,3 +95,12 @@ Random stuff, mainly electronics, firmware, embedded, robotics, softwares<br>
 [![DFRobot](https://img.shields.io/badge/-DFRobot-FF6600?style=social&logo=dfrobot&logoColor=orange)](https://www.dfrobot.com/your-profile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram&logoColor=pink)](https://www.instagram.com/your-handle)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=red)](https://www.youtube.com/c/your-channel)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter?style=social&logo=twitter&logoColor=1DA1F2)](https://twitter.com/your-handle)
+[![GitHub](https://img.shields.io/badge/-GitHub?style=social&logo=github&logoColor=181717)](https://github.com/your-username)
+[![Instructables](https://img.shields.io/badge/-?style=for-the-badge&logo=instructables&logoColor=black)](https://www.instructables.com/member/your-profile/)
+[![Hackster](https://img.shields.io/badge/-?style=for-the-badge&logo=hackster&logoColor=00A6DA)](https://www.hackster.io/your-profile)
+[![DFRobot](https://img.shields.io/badge/-?style=for-the-badge&logo=dfrobot&logoColor=FF6600)](https://www.dfrobot.com/your-profile)
+[![Instagram](https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/your-handle)
+[![YouTube](https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/c/your-channel)
